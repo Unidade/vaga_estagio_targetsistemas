@@ -1,0 +1,16 @@
+{
+  "name": "vaga_estagio_targetsistemas",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "solução do teste para vaga de estágio da target sistemas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jasmine"
+  },
+  "author": "Unidade",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^4.6.0"
+  }
+}
